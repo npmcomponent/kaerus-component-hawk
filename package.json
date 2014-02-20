@@ -1,0 +1,6 @@
+{
+  "name": "kaerus-component-hawk",
+  "version": "0.1.0",
+  "main": "lib/hawk.js",
+  "dependencies": {}
+}
